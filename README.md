@@ -20,8 +20,8 @@ To play the game, you need to have Python installed on your machine. You can dow
    
 3. Run the game
   ```bash
-  python main.py
-```
+   python main.py
+   ```
 ## Controls
 - Use the arrow keys to control the direction of the snake.
 
